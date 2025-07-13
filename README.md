@@ -3,7 +3,12 @@ This project is part of my journey to build an automated pipeline that scrapes b
 
 While I haven't fully achieved that level of automation yet, I've built a solid foundation and learned a lot through trial and error. This repo documents the process, tools, and challenges I encountered.
 
----
+--- 
+IMPORTANT!! IF YOU'RE PLANNING TO USE THIS CODE, MAKE SURE YOU GET A 'HF_TOKEN' FROM HUGGING FACE AND UPDATE THE URLs IN THE CODE "driver.get("https://yourblog.com/category/technology/")" ALSO UPDATE THE XPATHS TO FETCH ELEMENTS FROM WEBPAGES. 
+
+CONTACT ME: victormwangi100@gmail.com
+
+You can view the results of this project here: https://blog.ultraprofs.com/blog/
 
 ## 🚀 Project Goals
 
