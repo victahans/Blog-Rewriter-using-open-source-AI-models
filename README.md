@@ -95,7 +95,7 @@ Some models reordered paragraphs or removed list formatting. I had to create log
 
 ---
 
-## 🔧 Sample Output Flow
+## 🔧 Output Flow
 
 ```mermaid
 graph TD
