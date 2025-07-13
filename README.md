@@ -52,7 +52,6 @@ While I haven't fully achieved that level of automation yet, I've built a solid 
 - **GPT-NeoX**
 - **DeepSeek**
 - **Mistral 7B**
-- **text-generation-webui (locally hosted)**
 - **LM Studio**
 - **Gemma 2B** ✅ *(final choice)*
 
